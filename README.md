@@ -17,6 +17,20 @@ Simple AVR Assembly project for the ATmega32A.
 - LEDs: `PD2–PD7`, `PC6–PC7`
 - Buttons: `PB0`, `PB1`
 
+## Flowcharts
+
+### Main program
+
+![Main program flowchart](main_flowchart.png)
+
+### Timer1 interrupt
+
+![Timer1 interrupt flowchart](interrupt_flowchart.png)
+
+## Demo
+
+![LED snake demo](led_snake_demo_github.gif)
+
 ## Notes
 
 Created as part of a university AVR laboratory exercise.
