@@ -31,9 +31,9 @@ Simple AVR Assembly project for the ATmega32A.
 
 ![LED snake demo](led_snake_demo_github.gif)
 
-##Source code
+## Source code
 
-View main.asm
+[View main.asm](main.asm)
 
 ## Notes
 
